@@ -33,6 +33,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
+  belajar_dart_library:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "1.0.0"
+      resolved-ref: "50800ab45ee76320211f7b1001150ac16472efec"
+      url: "https://github.com/epul2207/belajar_dart_library.git"
+    source: git
+    version: "1.0.0"
   boolean_selector:
     dependency: transitive
     description:
