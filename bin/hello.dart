@@ -1,7 +1,7 @@
-import 'package:belajar_dart_library/hello.dart';
+import 'package:belajar_dart_library/hello.dart' as belajar;
 
 void main() {
-  hello('Otong');
+  belajar.hello('Otong');
 
-  var data = Konsumen();
+  var data = belajar.Konsumen();
 }
